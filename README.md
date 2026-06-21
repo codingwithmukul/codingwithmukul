@@ -3,7 +3,7 @@
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on a mentor helping 
-- 📫 can reach me on my Gmail mukulmaithil@outlook.com
+- 📫 can reach me on my email mukulmaithil@outlook.com
 - 😄 Pronouns: mukul
 - ⚡ Fun fact: beginner but hungry to learn
 - ✨ what I know in Tech HTML, CSS,----
