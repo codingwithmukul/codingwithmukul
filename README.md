@@ -1,4 +1,4 @@
-- # mukul_maithl
+- # Mukul_Maithl
 - 👋 Hi, I’m @codingwithmukul
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning JavaScript
