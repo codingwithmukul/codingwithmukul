@@ -6,7 +6,7 @@
 - 📫 can reach me on my email mukulmaithil@outlook.com
 - 😄 Pronouns: mukul
 - ⚡ Fun fact: beginner but hungry to learn
-- ✨ what I know in Tech HTML, CSS,----
+- ✨ what I know in Tech HTML, CSS, javascript
 
 <!---
 codingwithmukul/codingwithmukul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
